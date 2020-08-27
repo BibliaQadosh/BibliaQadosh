@@ -29,7 +29,7 @@ For the Old Testament, the Leningrad codex based on Westminster via OpenScriptur
 
 # Credits
 
-This website would not exist without the following organization and resources:
+This website would not exist without the following organizations and resources:
 
 
 [Tyndale House, Cambridge](www.TyndaleHouse.com)  
