@@ -24,18 +24,19 @@ Please open a new issue(https://github.com/bibliaqadosh/bibliaqadosh/issues) and
 
 # Text
 
-For the New Testament, [SBLGNT](http://sblgnt.com) is used.
+For the New Testament, [SBLGNT](http://sblgnt.com) is used.  
 For the Old Testament, The Leningrad codex based on Westminster via OpenScriptures is used.
 
 # Credits
 
 This website would not exist without the following organization and resources:
 
-[Tyndale House, Cambridge](www.TyndaleHouse.com)
-[STEP Bible](www.STEPBible.org)
-[tyndale.github.io/STEPBible-Data/](tyndale.github.io/STEPBible-Data/)
 
-[https://github.com/morphgnt/sblgnt](https://github.com/morphgnt/sblgnt)
+[Tyndale House, Cambridge](www.TyndaleHouse.com)  
+[STEP Bible](www.STEPBible.org)  
+[tyndale.github.io/STEPBible-Data/](tyndale.github.io/STEPBible-Data/)  
+
+[https://github.com/morphgnt/sblgnt](https://github.com/morphgnt/sblgnt)  
 
 # Greek Transliteration
 
@@ -43,14 +44,14 @@ This website would not exist without the following organization and resources:
 
 Examples:
 
-Το κάλλος είναι η καλύτερη συστατική επιστολή
+Το κάλλος είναι η καλύτερη συστατική επιστολή  
 To kallos einai h kalyterh systatikh epistolh
 
-καλημερα, πως ειστε;
+καλημερα, πως ειστε;  
 kalhmera, pws eiste?
 
-Εύηχο: αυτό που ακούγεται ωραία.
+Εύηχο: αυτό που ακούγεται ωραία.  
 Euhxo: auto pou akougetai wraia.
 
-καλημερα, πως ειστε
+καλημερα, πως ειστε  
 kaλhmera, pws eiste
