@@ -41,6 +41,10 @@ https://github.com/openscriptures/morphhb
 
 [https://github.com/morphgnt/sblgnt](https://github.com/morphgnt/sblgnt)  
 
+Scripture quotations marked SBLGNT are from the SBL Greek New Testament.  
+Copyright © 2010 Society of Biblical Literature and Logos Bible Software.  
+With online or electronic quotations, link "SBLGNT" and "SBL Greek New Testament" to http://sblgnt.com, "Society of Biblical Literature" to http://www.sbl-site.org, and "Logos Bible Software" to http://www.logos.com.
+
 # Greek Transliteration
 
 [https://github.com/vbarzokas/greek-utils](https://github.com/vbarzokas/greek-utils)
