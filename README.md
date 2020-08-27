@@ -25,7 +25,7 @@ Please open a new issue(https://github.com/bibliaqadosh/bibliaqadosh/issues) and
 # Text
 
 For the New Testament, [SBLGNT](http://sblgnt.com) is used.  
-For the Old Testament, The Leningrad codex based on Westminster via OpenScriptures is used.
+For the Old Testament, the Leningrad codex based on Westminster via OpenScriptures is used.
 
 # Credits
 
@@ -35,6 +35,9 @@ This website would not exist without the following organization and resources:
 [Tyndale House, Cambridge](www.TyndaleHouse.com)  
 [STEP Bible](www.STEPBible.org)  
 [tyndale.github.io/STEPBible-Data/](tyndale.github.io/STEPBible-Data/)  
+
+the Open Scriptures Hebrew Bible Project  
+https://github.com/openscriptures/morphhb
 
 [https://github.com/morphgnt/sblgnt](https://github.com/morphgnt/sblgnt)  
 
