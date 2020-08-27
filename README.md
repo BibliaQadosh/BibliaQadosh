@@ -20,7 +20,7 @@ Bibliaqadosh stands for the combination of the Greek word **Βιβλια** (mean
 
 # Bugs & Feature requests
 
-Please open a new issue and participate the discussion here.
+Please open a new issue(https://github.com/bibliaqadosh/bibliaqadosh/issues) and participate the discussion here.
 
 # Text
 
