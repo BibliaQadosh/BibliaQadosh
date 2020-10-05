@@ -5,9 +5,9 @@ Bibliaqadosh stands for the combination of the Greek word **Βιβλια** (mean
 # Features
 
 - Reading with Word-Wise feature
-- Parsing help and excercies
+- Parsing help and exercises
 - Vocabulary building through reading and spaced repetition (coming soon)
-- Quizes for each knowledge point (coming soon)
+- Quizzes for each knowledge point (coming soon)
 - Statistics and reports (coming soon)
 - Discussion board (coming soon)
 
