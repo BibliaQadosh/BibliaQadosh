@@ -1,6 +1,6 @@
 # Name
 
-Bibliaqadosh stands for the combination of the Greek word **Βιβλια** (means bible, book) and the Hebrew word ֗**קדש** (means holy). 
+Bibliaqadosh stands for the combination of the Greek word **Βιβλια** (means book) and the Hebrew word ֗**קדש** (means holy). 
 
 # Features
 
